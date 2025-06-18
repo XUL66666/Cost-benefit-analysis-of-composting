@@ -1,0 +1,16 @@
+
+Prices of raw materials and fertilizers used in the cost-benefit analysis.
+Parameters	Value (RMB·t-1)
+	Min	Average	Max	Distribution types
+CO(NH2)2	2100	2500	3000	normal
+Ca(H2PO4)2·H2O	2000	2300	2700	normal
+K2SO4	4000	4500	5000	normal
+DGW		500		single value
+Biochar	1800	2100	2400	normal
+KOH	3000	3200	3300	normal
+
+
+  The projected expense for managing NH3 volatilization is 0.8 USD per kilogram (Zhang et al., 2020)
+
+  References
+Zhang, X., Gu, B., van Grinsven, H., Lam, S.K., Liang, X., Bai, M., Chen, D., 2020. Societal benefits of halving agricultural ammonia emissions in China far exceed the abatement costs. Nat. Commun. 11, 4357.
